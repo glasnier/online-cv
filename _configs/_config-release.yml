@@ -1,14 +1,14 @@
-
+# general
 title: Gilles Lasnier - Resume (CV)
 url: 'http://cv.gilleslasnier.com'
-#baseurl: 'http://cv.gilleslasnier.com' #change it according to your repository name
+baseurl: 'http://cv.gilleslasnier.com' #change it according to your repository name
 
-#Profile information
+# profile information
 name: Gilles Lasnier
-tagline: Head of Research &amp Development
+tagline: Head of<br> Research &amp; Development
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-#sidebar links
+# sidebar links
 email: 1st.last@gmail.com
 phone: +33 6 7X XX XX XX
 website: gilleslasnier.com #do not add http://
@@ -16,4 +16,4 @@ linkedin: glasnier
 github: glasnier
 twitter: '@gilleslasnier'
 
-#Update all the sections by editing the files inside _includes folder.
+# update all the sections by editing the files inside _includes folder.
